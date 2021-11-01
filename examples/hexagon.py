@@ -1,0 +1,15 @@
+import turtle
+
+stella = turtle.Turtle()
+stella.forward(100)
+stella.left(60)
+stella.forward(100)
+stella.left(60)
+stella.forward(100)
+stella.left(60)
+stella.forward(100)
+stella.left(60)
+stella.forward(100)
+stella.left(60)
+stella.forward(100)
+stella.left(60)
