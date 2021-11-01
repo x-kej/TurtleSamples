@@ -1,15 +1,7 @@
 import turtle
 
 stella = turtle.Turtle()
-stella.forward(100)
-stella.left(60)
-stella.forward(100)
-stella.left(60)
-stella.forward(100)
-stella.left(60)
-stella.forward(100)
-stella.left(60)
-stella.forward(100)
-stella.left(60)
-stella.forward(100)
-stella.left(60)
+
+for _ in range(6):
+    stella.forward(100)
+    stella.left(60)
